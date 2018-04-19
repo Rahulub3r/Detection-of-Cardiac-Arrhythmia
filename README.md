@@ -1,6 +1,6 @@
 # Detection-of-Cardiac-Arrhythmia
 
-Transformed data and tested supervised learning models in Python to solve a multi-class classification problem of detecting different kinds of cardiac arrhythmia resulting in an accuracy greater than 71%
+Transformed data and tested supervised learning models in Python to solve a multi-class classification problem of detecting different kinds of [cardiac arrhythmia](https://archive.ics.uci.edu/ml/datasets/arrhythmia) resulting in an accuracy greater than 71%
 
 ### Models tried:
 1. Logistic Regression
