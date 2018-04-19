@@ -20,3 +20,7 @@ Transformed data and tested supervised learning models in Python to solve a mult
 
 ### Dimensionality reduction techniques:
 1. Principal component analysis
+
+### Evaluation metrics:
+1. Accuracy
+2. Area Under Curve
