@@ -5,22 +5,22 @@
 ## Tasks
 1. Load Libraies
 2. Load Data
-3. Data Cleaning and Transformation 
-&nbsp;&nbsp;&nbsp;&nbsp;    3.1 Renaming Columns 
-&nbsp;&nbsp;&nbsp;&nbsp;    3.2 Missing Data Imputation 
-&nbsp;&nbsp;&nbsp;&nbsp;    3.3 Column Dropping 
-4. Exploratory Analysis
-&nbsp;&nbsp;&nbsp;&nbsp;   4.1 Histograms for Numeric Variables
-&nbsp;&nbsp;&nbsp;&nbsp;   4.2 Pie Charts for Categoric Variables
-&nbsp;&nbsp;&nbsp;&nbsp;   4.3 Correlation Plot 
-&nbsp;&nbsp;&nbsp;&nbsp;   4.4 Histograms by Target Class
-5. Modeling
-&nbsp;&nbsp;&nbsp;&nbsp;    5.1 Train Test Splits
-&nbsp;&nbsp;&nbsp;&nbsp;    5.2 Baseline Model
-&nbsp;&nbsp;&nbsp;&nbsp;    5.3 Feature Selection
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      5.3.1 Univariate Feature Elimination
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      5.3.2 Recursive Feature Elimination
-&nbsp;&nbsp;&nbsp;&nbsp;    5.4 Grid Search and Cross Validation
+3. Data Cleaning and Transformation <br>
+&nbsp;&nbsp;&nbsp;&nbsp;    3.1 Renaming Columns <br>
+&nbsp;&nbsp;&nbsp;&nbsp;    3.2 Missing Data Imputation <br>
+&nbsp;&nbsp;&nbsp;&nbsp;    3.3 Column Dropping <br>
+4. Exploratory Analysis<br>
+&nbsp;&nbsp;&nbsp;&nbsp;   4.1 Histograms for Numeric Variables<br>
+&nbsp;&nbsp;&nbsp;&nbsp;   4.2 Pie Charts for Categoric Variables<br>
+&nbsp;&nbsp;&nbsp;&nbsp;   4.3 Correlation Plot <br>
+&nbsp;&nbsp;&nbsp;&nbsp;   4.4 Histograms by Target Class<br>
+5. Modeling<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    5.1 Train Test Splits<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    5.2 Baseline Model<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    5.3 Feature Selection<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      5.3.1 Univariate Feature Elimination<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      5.3.2 Recursive Feature Elimination<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    5.4 Grid Search and Cross Validation<br>
 6. Final Model Results
 
 ## Additional Information
