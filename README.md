@@ -1,6 +1,6 @@
 # Detection-of-Cardiac-Arrhythmia
 
-**Goal:** Transformed data and tested supervised learning models in Python to solve a multi-class classification problem of detecting different kinds of [cardiac arrhythmia](https://archive.ics.uci.edu/ml/datasets/arrhythmia) resulting in an accuracy greater than 71%
+**Goal:** Transformed data and tested supervised learning models in Python to solve a multi-class classification problem of detecting different kinds of [cardiac arrhythmia](https://archive.ics.uci.edu/ml/datasets/arrhythmia) resulting in a test data accuracy greater than 80%
 
 ## Tasks
 1. Load Libraies
